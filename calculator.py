@@ -26,7 +26,7 @@ def main():
           break
       num1 = float(num1_str)
 
-      operation = input("Enter an operation (+, -, *, /): ")
+      operation = input("Enter an operation (+, -, *, /): ").strip()
       if not operation:
           print("No input provided. Exiting.")
           break
@@ -57,7 +57,7 @@ def main():
     except Exception as e:
       print(f"An unexpected error occurred: {e}")
 
-    another_calculation = input("Do you want to perform another calculation? (yes/no): ").lower()
+    another_calculation = input("Do you want to perform another calculation? (Enter 'yes' to continue, any other input to exit): ").lower().strip()
     if another_calculation != 'yes':
       break
 
