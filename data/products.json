@@ -1,0 +1,56 @@
+[
+  {
+    "id": 1,
+    "name": "Blue Dinosaur T-Shirt",
+    "description": "A fun and comfy t-shirt with a cool dinosaur print. Made from 100% organic cotton.",
+    "price": 15.99,
+    "image_url": "images/dino_tshirt.png",
+    "sizes": ["2T", "3T", "4T", "5T"],
+    "category": "Tops"
+  },
+  {
+    "id": 2,
+    "name": "Pink Sparkle Leggings",
+    "description": "Stretchy and comfortable leggings with a touch of sparkle. Perfect for active little ones.",
+    "price": 12.50,
+    "image_url": "images/sparkle_leggings.png",
+    "sizes": ["2T", "3T", "4T", "5T", "6"],
+    "category": "Bottoms"
+  },
+  {
+    "id": 3,
+    "name": "Yellow Sun Dress",
+    "description": "A light and airy sundress, perfect for warm weather. Features a cute floral pattern.",
+    "price": 22.00,
+    "image_url": "images/sun_dress.png",
+    "sizes": ["3T", "4T", "5T", "6", "7"],
+    "category": "Dresses"
+  },
+  {
+    "id": 4,
+    "name": "Green Cargo Shorts",
+    "description": "Durable cargo shorts with plenty of pockets for treasures. Ideal for adventures.",
+    "price": 18.75,
+    "image_url": "images/cargo_shorts.png",
+    "sizes": ["4T", "5T", "6", "7", "8"],
+    "category": "Bottoms"
+  },
+  {
+    "id": 5,
+    "name": "Rainbow Striped Sweater",
+    "description": "A cozy and colorful sweater to brighten up any day. Made from a soft wool blend.",
+    "price": 25.00,
+    "image_url": "images/rainbow_sweater.png",
+    "sizes": ["2T", "3T", "4T", "5T"],
+    "category": "Tops"
+  },
+  {
+    "id": 6,
+    "name": "Denim Overalls",
+    "description": "Classic denim overalls, sturdy and stylish for playtime.",
+    "price": 30.00,
+    "image_url": "images/denim_overalls.png",
+    "sizes": ["3T", "4T", "5T"],
+    "category": "Outfit Sets"
+  }
+]
